@@ -19,7 +19,7 @@ if (six.PY2):
     import urllib
 
 cl = LINETCR.LINE()
-cl.login(token="EoO0TnNFiWjaMU6bjeO7.16J7ZcRWn8lfVXGBIF2L9W.OhV4WX7X8TprsE1PKTYx62L+Tdtl2rvYZ+prYCiLG/8=")
+cl.login(token="Epry32SNG2p3tzjuU0qa.eHSnA7vZfBtxHdjvJHNxYG.Cz/02eMnd21/XvgA8aNCpu3yYUhPJCMXABRharUd50I=")
 cl.loginResult()
 
 print "==================[Login Success]==================="
@@ -27,7 +27,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpmsg ="""╔══════════════╗
-      M̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉F͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ    
+      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽   
 ╚══════════════╝
 
 ♨▶. Help1
@@ -42,12 +42,12 @@ helpmsg ="""╔══════════════╗
 ♨▶. Status
 
 ╔══════════════╗
-      M̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉F͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ    
+      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽    
 ╚══════════════╝
 """
 
 help1 ="""♛♛♛♛♛♛♛♛♛♛♛
-♛      M̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉F͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ     ♛
+♛      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽     ♛
 ♛♛♛♛♛♛♛♛♛♛♛
 
 ♨▶.「Google」
@@ -70,7 +70,7 @@ help1 ="""♛♛♛♛♛♛♛♛♛♛♛
 """
 
 help2 ="""♛♛♛♛♛♛♛♛♛♛♛
-♛      M̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉F͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ     ♛
+♛      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽     ♛
 ♛♛♛♛♛♛♛♛♛♛♛
 
 ♨▶.「Myname」
@@ -95,7 +95,7 @@ help2 ="""♛♛♛♛♛♛♛♛♛♛♛
 """
 
 help3 ="""♛♛♛♛♛♛♛♛♛♛♛
-♛      M̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉F͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ     ♛
+♛      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽     ♛
 ♛♛♛♛♛♛♛♛♛♛♛
 
 
@@ -122,7 +122,7 @@ help3 ="""♛♛♛♛♛♛♛♛♛♛♛
 """
 
 help4 ="""♛♛♛♛♛♛♛♛♛♛♛
-♛      M͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨF͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ     ♛
+♛      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽     ♛
 ♛♛♛♛♛♛♛♛♛♛♛
 
 ♨▶.「Open link」
@@ -145,7 +145,7 @@ help4 ="""♛♛♛♛♛♛♛♛♛♛♛
 """
 
 help5 ="""♛♛♛♛♛♛♛♛♛♛♛
-♛      M͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨF͉̼̯͉̝̝͖̯ͮ̂ͮ͋ͫͨR̪̭̼̯͉̝̱̼̼̉̈́ͪ͋̽̚L͚̖̼̯͉̝̜ͬͤ͆ͨ͐O̳̼̯̼̯̙͔͈͕ͬͤ͆ͨ̂̉R̫͈̭͌͛͌̇̇D̼̯̘͈̺̪͓̺ͩ͂ͪ̀̋B̞̟̫̺ͭͭͣO͕͖̭̰ͬͤ͆ͨT̼̯͉̝͖̻̯ͮ̂ͮ͋ͫͨ     ♛
+♛      𝓝𝓿𝓩𝟔𝟗ℬ𝓸𝓽     ♛
 ♛♛♛♛♛♛♛♛♛♛♛
 
 ♨▶.「Respon:on」
@@ -507,7 +507,7 @@ def bot(op):
                  if wait["detectMention"] == True:
                      contact = cl.getContact(msg.from_)
                      cName = contact.displayName
-                     balas = ["「Auto Respon」\nHalo「" + cName + "」\nMohon Maaf Saat Ini Saya Sedang Sibuk"]
+                     balas = ["「Auto Respon」\nHai「" + cName + "」\nOrang Nya Lagi Nikung Janggan Ditag...PM aja kalo kangen"]
                      agler = "" + random.choice(balas)
                      name = re.findall(r'@(\w+)', msg.text)
                      mention = ast.literal_eval(msg.contentMetadata['MENTION'])
